@@ -45,4 +45,4 @@ We also learned how to train & implement LSTM model with help of Python & Django
 
 In our further version we are planning to detect & identify deepfake audio too. We are also planning to introduce Subscription Plans & Consulting Services to make this  project profitable.
 
-Check out the working video here : https://youtu.be/SW5c_4ZLbrE
+Check out the working video here : [https://youtu.be/SW5c_4ZLbrE](https://youtu.be/POSRtq_NYZU)
